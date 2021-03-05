@@ -100,47 +100,135 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
   <tr>
     <td style="text-align: center;">
       <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr.svg">
-        <img alt="color logo" src="./logo/logo-mr.svg" height="100">
+        <img alt="logo" src="./logo/logo-mr.svg" height="100">
       </a>
-      <div>Standard</div>
+      <div>Default</div>
     </td>
     <td style="text-align: center;">
       <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-tagline.svg">
-        <img alt="white logo" src="./logo/logo-mr-tagline.svg" height="100">
+        <img alt="tagline logo" src="./logo/logo-mr-tagline.svg" height="100">
       </a>
-      <div>Tagline</div>
+      <div>Tagline default</div>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-black.svg">
+        <img alt="black logo" src="./logo/logo-mr-black.svg" height="100">
+      </a>
+      <div>Black</div>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-tagline-black.svg">
+        <img alt="black tagline logo" src="./logo/logo-mr-tagline-black.svg" height="100">
+      </a>
+      <div>Tagline black</div>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-green.svg">
+        <img alt="green logo" src="./logo/logo-mr-green.svg" height="100">
+      </a>
+      <div>Green</div>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-tagline-green.svg">
+        <img alt="green tagline logo" src="./logo/logo-mr-tagline-green.svg" height="100">
+      </a>
+      <div>Tagline green</div>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-yellow.svg">
+        <img alt="yellow logo" src="./logo/logo-mr-yellow.svg" height="100">
+      </a>
+      <div>Yellow</div>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-tagline-yellow.svg">
+        <img alt="yellow tagline logo" src="./logo/logo-mr-tagline-yellow.svg" height="100">
+      </a>
+      <div>Tagline yellow</div>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-white.svg">
+        <img alt="white logo" src="./logo/logo-mr-white.svg" height="100">
+      </a>
+      <div>White</div>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-tagline-white.svg">
+        <img alt="white tagline logo" src="./logo/logo-mr-tagline-white.svg" height="100" style="background-color:#1d2731;">
+      </a>
+      <div>Tagline white</div>
     </td>
   </tr>
   </table>
   <table>
   <tr>
     <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-green.svg">
-        <img alt="square green logo" src="./logo/logo-mr-square-green.svg" height="100">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-green-transparent.svg">
+        <img alt="square green transparent logo" src="./logo/logo-mr-square-green-transparent.svg" height="100">
+      </a>
+      <div>Square green transparent</div>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-black-transparent.svg">
+        <img alt="square black transparent logo" src="./logo/logo-mr-square-black-transparent.svg" height="100">
+      </a>
+      <div>Square black transparent</div>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-blue-transparent.svg">
+        <img alt="square blue transparent logo" src="./logo/logo-mr-square-blue-transparent.svg" height="100">
+      </a>
+      <div>Square blue transparent</div>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-alt-yellow.png">
+        <img alt="square alt yellow logo" src="./logo/logo-mr-square-alt-yellow.png" height="100">
+      </a>
+      <div>Square alt yellow</div>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-alt-black.png">
+        <img alt="square alt black logo" src="./logo/logo-mr-square-alt-black.png" height="100">
+      </a>
+      <div>Square alt black</div>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-green.png">
+        <img alt="square green logo" src="./logo/logo-mr-square-green.png" height="100">
       </a>
       <div>Square green</div>
     </td>
     <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-black.svg">
-        <img alt="square black logo" src="./logo/logo-mr-square-black.svg" height="100">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-black.png">
+        <img alt="square black logo" src="./logo/logo-mr-square-black.png" height="100">
       </a>
       <div>Square black</div>
     </td>
     <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-blue.svg">
-        <img alt="square blue logo" src="./logo/logo-mr-square-blue.svg" height="100">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-blue.png">
+        <img alt="square blue logo" src="./logo/logo-mr-square-blue.png" height="100">
       </a>
       <div>Square blue</div>
     </td>
     <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-yellow.svg">
-        <img alt="square yellow logo" src="./logo/logo-mr-square-yellow.svg" height="100">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-yellow.png">
+        <img alt="square yellow logo" src="./logo/logo-mr-square-yellow.png" height="100">
       </a>
       <div>Square yellow</div>
     </td>
     <td style="text-align: center;">
       <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-white.svg">
-        <img alt="square white logo" src="./logo/logo-mr-square-white.svg" height="100" style="background:#1d2731;">
+        <img alt="square white logo" src="./logo/logo-mr-square-white.svg" height="100" style="background-color:#1d2731;">
       </a>
       <div>Square white</div>
     </td>
