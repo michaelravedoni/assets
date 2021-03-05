@@ -153,7 +153,7 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
       <div>Tagline yellow</div>
     </td>
   </tr>
-  <tr>
+  <tr style="background-color: black;color: white;">
     <td style="text-align: center;">
       <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-white.svg">
         <img alt="white logo" src="./logo/logo-mr-white.svg" height="100">
@@ -162,7 +162,7 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
     </td>
     <td style="text-align: center;">
       <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-tagline-white.svg">
-        <img alt="white tagline logo" src="./logo/logo-mr-tagline-white.svg" height="100" style="background-color:#1d2731;">
+        <img alt="white tagline logo" src="./logo/logo-mr-tagline-white.svg" height="100">
       </a>
       <div>Tagline white</div>
     </td>
