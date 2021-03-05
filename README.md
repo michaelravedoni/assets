@@ -79,18 +79,29 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
 <html lang="en">
 <head>
     <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Michael Ravedoni</title>
-    <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/favicon/favicon.ico" type="image/x-icon">
+    
+    <link rel="shortcut icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/favicon/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/favicon/favicon-16x16.png">
+	<link rel="manifest" href="<PATH>/site.webmanifest">
+	<link rel="mask-icon" href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
 
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&family=Montserrat:wght@500;700&display=swap" rel="stylesheet" >
-    <link href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/css/theme.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.1/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic|Montserrat:400,700&display=swap" rel="stylesheet" >
+    <link href="https://michaelravedoni.ch/user/themes/michael/css/michael.min.css" rel="stylesheet">
+    
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.6.16/dist/js/uikit.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.6.16/dist/js/uikit-icons.min.js"></script>
+    <script src="https://use.fontawesome.com/releases/v5.11.0/js/all.js"></script>
 </head>
 <body>
   <!-- Content -->
-  <script src="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/js/theme.min.js"></script>
 </body>
 ````
 
