@@ -99,32 +99,32 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
 <table>
   <tr>
     <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-color.svg">
-        <img alt="color logo" src="./logo/logo-mr-color.svg" height="100">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr.svg">
+        <img alt="color logo" src="./logo/logo-mr.svg" height="100">
       </a>
-      <div>Color</div>
+      <div>Standard</div>
     </td>
     <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-white.svg">
-        <img alt="white logo" src="./logo/logo-mr-white.svg" height="100" style="background:#0d1821;">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-tagline.svg">
+        <img alt="white logo" src="./logo/logo-mr-tagline.svg" height="100">
       </a>
-      <div>White</div>
+      <div>Tagline</div>
     </td>
   </tr>
   </table>
   <table>
   <tr>
     <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square.svg">
-        <img alt="square logo" src="./logo/logo-mr-square.svg" height="100">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-green.svg">
+        <img alt="square green logo" src="./logo/logo-mr-square-green.svg" height="100">
       </a>
-      <div>Square</div>
+      <div>Square green</div>
     </td>
     <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-grey.svg">
-        <img alt="square logo" src="./logo/logo-mr-square-grey.svg" height="100">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-black.svg">
+        <img alt="square black logo" src="./logo/logo-mr-square-black.svg" height="100">
       </a>
-      <div>Square grey</div>
+      <div>Square black</div>
     </td>
     <td style="text-align: center;">
       <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-blue.svg">
@@ -134,15 +134,15 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
     </td>
     <td style="text-align: center;">
       <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-yellow.svg">
-        <img alt="square yellowlogo" src="./logo/logo-mr-square-yellow.svg" height="100">
+        <img alt="square yellow logo" src="./logo/logo-mr-square-yellow.svg" height="100">
       </a>
       <div>Square yellow</div>
     </td>
     <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-red.svg">
-        <img alt="square red logo" src="./logo/logo-mr-square-red.svg" height="100">
+      <a href="https://cdn.jsdelivr.net/gh/michaelravedoni/assets@latest/logo/logo-mr-square-white.svg">
+        <img alt="square white logo" src="./logo/logo-mr-square-white.svg" height="100" style="background:#1d2731;">
       </a>
-      <div>Square red</div>
+      <div>Square white</div>
     </td>
   </tr>
 </table>
